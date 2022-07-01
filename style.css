@@ -1,0 +1,39 @@
+body
+{
+    font-family:"Lobster";
+    background-color: rgb(229, 255, 0);
+}
+.header_div
+{
+    background-color:white ;
+    color:red;
+}
+.header_div p
+{
+  font-family:"Fira Sans" ;
+  color:grey;
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.main_div button
+{
+    font-family: "Lobster";
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing :3px;
+}
+.copyright_footer
+{
+    position:fixed;
+    color:darkgray;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color: whitesmoke;
+    line-height:3;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(204, 204, 204);
+}
+
